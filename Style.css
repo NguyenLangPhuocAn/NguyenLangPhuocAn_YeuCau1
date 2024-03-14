@@ -1,0 +1,1591 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.Copyrights_Text
+{
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: 500;
+    font-family: 'Poppins';    
+}
+.Footer_Logo_Text
+{
+    font-size: 30px;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: 900;
+    font-family: 'Poppins';    
+}
+.Stay_Up_Submit_Button
+{
+    margin-left:-190px;
+    position: absolute;
+    width: 190px;
+    height: 70px;
+    border-radius: 35px;
+    background-color: #0f66dc;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: 'Poppins';
+    text-align: center;
+}
+.Stay_Up_Submit_Textbox
+{
+    width: 75.5%;
+    height: 70px;
+    border-radius: 35px;
+    background-color: #f5f8fd;
+    border: 1px solid #e5e5e5;    
+}
+.Stay_Up_Content1
+{
+    font-size: 30px;
+    color: #2c2c2c;
+    font-weight: 600;
+}
+.Stay_Up_Content2
+{
+    font-size: 14px;
+    color: #2c2c2c;
+    font-weight: 500
+}
+.Consulting_Firm_Border_Content3
+{
+    font-family: 'Inter SemiBold';
+    font-size: 24px;
+    color: #0f66dc;
+    font-weight: bold;
+}
+.Consulting_Firm_Border_Content4
+{
+    font-family: 'Inter'; 
+    font-size: 15px; 
+    color: #8a8a8a;
+}
+.fa-database
+{
+    font-size: 72px;
+    color: #232323;
+}
+.fa-cloud
+{
+    font-size: 72px;
+    color: #232323;
+}
+.Consulting_Firm_Border_Content1
+{
+    font-family: 'Inter SemiBold';
+    font-size: 24px;
+    color: #0f66dc;
+    font-weight: bold;
+}
+.Consulting_Firm_Border_Content2
+{
+    font-family: 'Inter'; 
+    font-size: 15px; 
+    color: #8a8a8a;
+}
+.Consulting_Firm_Button1
+{
+    width: 46.5%;
+    height: 70px;
+    border-radius: 35px;
+    background-color: #ffffff;
+    margin-top: 49px;
+    font-size: 14px;
+    line-height: 30px;
+    color: #0f66dc;
+    font-weight: 600;
+    font-family: 'Poppins';
+    text-align: center;   
+}
+.Consulting_Firm_Content1
+{
+    font-size: 35px;
+    color: #ffffff;
+    font-weight: 500;
+    font-family: 'Inter';
+}
+.Consulting_Firm_Content2
+{
+    font-size: 16px;
+    line-height: 26px;
+    color: #ffffff;
+    font-weight: 500;
+    font-family: 'Inter';
+}
+.Last_Project_Img1
+{
+    margin-left: 16px;
+    margin-top: 165px;
+    width:29.4%;
+    height:315px;  
+}
+.Last_Project_Img2
+{
+    margin-left: 14px;
+    margin-top: 160px;
+    width:29.4%;
+    height:315px; 
+}
+.Last_Project_Img3
+{
+    margin-left: 13px;
+    margin-top: 160px;
+    width:29.4%;
+    height:315px; 
+}
+.Last_Project_Img_Button1
+{
+    width: 36px;
+    background-color:black;
+    color: white;
+    font-size: 20px;
+    height: 36px;
+    border-radius: 40px; 
+    margin-top: 323px;
+    margin-left: 29px;    
+}
+.Last_Project_Img_Button2
+{
+    width: 36px;
+    background-color:black;
+    color: white;
+    font-size: 20px;
+    height: 36px;
+    border-radius: 40px; 
+    margin-top: 323px;
+    margin-left: 29px;    
+}
+.Last_Project_Content1
+{
+    font-size: 36px;
+    color: #2c2c2c;
+    font-weight: 500;
+    font-family: 'Inter';
+    text-align: center;
+}
+.Last_Project_Content2
+{
+    font-size: 16px;
+    line-height: 26px;
+    color: #748494;
+    font-weight: 400;
+    font-family: 'Inter';
+    text-align: center;
+}
+.fa-stripe-s
+{
+    color: #0f66dc; 
+    font-size: 72px;
+    text-align:center;
+}
+.fa-arrow-right
+{
+    font-size: 24px; 
+    color: #ffffff; 
+    text-align: center;    
+}
+.Option_Button1
+{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    background-color: #0f66dc;
+    border: 1px solid #e4e4e4;    
+}
+.Option_Content1
+{
+    font-size: 24px;
+    line-height: 48px;
+    color: black;
+    font-weight: 600;
+    font-family: 'Inter SemiBold';    
+}
+.Option_Content2
+{
+    color: #8a8a8a;
+    font-size: 15px;
+    font-family:'Inter';
+}
+.Option_Content3
+{
+    font-size: 24px;
+    line-height: 48px;
+    color: black;
+    font-weight: 600;
+    font-family: 'Inter SemiBold';
+}
+.Option_Content4
+{
+    color: #8a8a8a;
+    font-size: 15px;
+    font-family:'Inter';
+}
+.Option_Content5
+{
+    font-size: 24px;
+    line-height: 48px;
+    color: black;
+    font-weight: 600;
+    font-family: 'Inter SemiBold';    
+}
+.Option_Content6
+{
+    color: #8a8a8a;
+    font-size: 15px;
+    font-family:'Inter';
+}
+.fa-wordpress
+{
+    color: #0f66dc; 
+    font-size: 72px;
+    text-align:center;   
+}
+.Not_Sure_To_Where_Start_Content1
+{
+    font-size: 36px;
+    color: #2c2c2c;
+    font-weight: 500;
+    font-family: 'Inter';
+    text-align: center;
+    width: 60.6%;
+    margin-left: 23.1%
+}
+.Not_Sure_To_Where_Start_Content2
+{
+    font-size: 16px;
+    color: #748494;
+    font-weight: 400;
+    font-family: 'Inter';
+    text-align: center;
+    width: 39.75%;
+    margin-left: 33.1%;
+}
+.New_Tecnologies_Button
+{
+    background-color: #0f66dc;
+    color: #ffffff;
+    margin-top: 49px;
+    font-family: 'Poppins SemiBold'; 
+    font-size: 14px; 
+    font-weight: bold;
+    text-align: center;
+}
+.New_Tecnologies_Content1
+{
+    font-size: 24px;
+    line-height: 48px;
+    color: #0f66dc;
+    font-weight: 600;
+    font-family: 'Inter';    
+}
+.New_Tecnologies_Content2
+{
+    font-size: 14px;
+    color: #2c2c2c;
+    font-weight: 600;
+    font-family: 'Inter';
+}
+.New_Tecnologies_Container_Img
+{
+    width:68.8%;height:576px;
+}
+.Futere_Button1
+{
+    color: #ffffff; 
+    font-family: 'Poppins SemiBold'; 
+    font-size: 14px; 
+    font-weight: bold;
+}
+.Futere_Button2
+{
+    background-color: #f0f8ff;
+    margin-left: 20px;
+    color: #0f66dc; 
+    font-family: 'Poppins SemiBold'; 
+    font-size: 14px; 
+    font-weight: bold;
+}
+.Futere_Content1
+{
+    font-size: 24px;
+    font-family: 'Inter SemiBold';
+    font-weight: 800;        
+}
+.Futere_Content2
+{
+    font-size: 16px;
+    font-family: 'Inter';
+    font-weight: 400;   
+}
+.Modern_Consulting_Content1
+{
+    font-size: 72px;
+    color: #0f66dc;
+    font-weight: 600;
+    font-family: 'Inter';
+    text-align: center;
+}
+.Modern_Consulting_Content2
+{
+    font-size: 24px;
+    font-family: 'Inter SemiBold';
+    font-weight: 550;
+    text-align: center;
+}
+.Modern_Consulting_Content3
+{
+    font-size: 16px;
+    font-family: 'Inter';
+    font-weight: 400;
+    text-align: center;
+}
+.Modern_Consulting_Content4
+{
+    font-size: 72px;
+    color: #0f66dc;
+    font-weight: 600;
+    font-family: 'Inter';
+    text-align: center;
+}
+.Modern_Consulting_Content5
+{
+    font-size: 24px;
+    font-family: 'Inter SemiBold';
+    font-weight: 550;
+    text-align: center;
+}
+.Modern_Consulting_Content6
+{
+    font-size: 16px;
+    font-family: 'Inter';
+    font-weight: 400;
+    text-align: center;
+}
+.Modern_Consulting_Content7
+{
+    font-size: 72px;
+    color: #0f66dc;
+    font-weight: 600;
+    font-family: 'Inter';
+    text-align: center;
+}
+.Modern_Consulting_Content8
+{
+    font-size: 24px;
+    font-family: 'Inter SemiBold';
+    font-weight: 550;
+    text-align: center;
+}
+.Modern_Consulting_Content9
+{
+    font-size: 16px;
+    font-family: 'Inter';
+    font-weight: 400;
+    text-align: center;
+}
+.fa-project-diagram
+{
+    font-size: 75px;
+}
+.fa-microchip
+{
+    font-size: 75px;
+}
+.fa-hands-helping
+{
+    font-size: 75px;
+}
+.Header
+{
+    width: 100%;
+    height: 5%;
+    top: 1%;
+    left: 0;
+    right: 0;
+}
+.Top_Bar
+{
+    width: 100%;
+    position: absolute;
+    justify-content: space-between;
+}
+.Top_Bar_Image
+{
+        margin-left: 60.9%;position: absolute;
+}
+.Top_Bar_Content
+{
+    font-size: 39px;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Poppins";
+    margin-left: 13.3%;
+    margin-top: 3.18%;
+}
+.Features
+{
+    margin-left: 12.5%;
+    width: 73.1%;
+    height: 7.2%;
+    display:block;
+}
+.Features_Border_Mid
+{
+    margin-top: -13.5%;
+    position: relative; 
+    display: block;
+    text-align: center;
+    width: 29.9%;
+    height: 89.5%;
+    border-radius: 10px;
+    background-color: #0f66dc;
+    margin-left: 3.75%;
+    margin-right: 3.75%;
+}
+.Container_Features
+{
+    display: flex;
+}
+.Features_Border_Side
+{
+    margin-top: -11.5%;
+    position: relative;
+    display: block;
+    text-align: center;
+    width: 29.9%;
+    height: 90%;
+    border-radius: 10px;
+    background-color: #ffffff;
+    border: 1px solid #e4e4e4;
+}
+.Border_Content
+{
+    margin-top: 12.5%;
+    margin-bottom: 12.5%;
+    margin-left: 7.14%;
+    margin-right: 7.14%;
+}
+.Content_Side
+{
+    font-family: 'Inter SemiBold', sans-serif;
+    font-size: 24px;
+    margin-bottom: 6%;
+    margin-top: 12%;
+}
+.Content_Side_Normal
+{
+    color: #8a8a8a;
+    font-size: 16px;
+}
+.Modern_Consulting
+{
+    width: 100%;
+    height: 6.07%;
+    text-align: center;
+    margin-top: 6%;
+    display: block;
+}
+.Modern_Consulting_Container1
+{
+    width: 73%;
+    margin-left: 13.4%;
+    margin-right: 13.4%;
+    text-align: center;
+    font-size: 30px;
+    color: #2c2c2c;
+    font-weight: 600;
+    font-family: "Inter";
+}
+.Modern_Consulting_Container2
+{
+    width: 73%;
+    margin-top: 3%;
+    display:flex;   
+    margin-left: 13.4%;
+    margin-right: 13.4%;
+}
+.Modern_Consulting_Content
+{
+    display:block;
+    width: 100%;
+    height: auto;
+}
+.Future
+{
+    margin-top: 193px;
+    width: 100%;
+    height: 7.09%;
+    display: flex;
+}
+.Future_Img
+{
+    float:left;
+    width: 100%;
+    height: 100%;
+}
+.Futere_Content
+{
+    text-align: left;
+    width: 35%;
+    height: 15%;
+    display:block;
+    margin-top: 2.5%;
+    margin-left: 15%;
+}
+.Futere_Button
+{
+    display: flex;
+    margin-top: 7%;
+}
+.bg_blue
+{
+    background-color: #0f66dc;
+}
+.Button1
+{
+    width: 191px;
+    height: 71px;
+    border-radius: 35px;
+}
+.Logo_Container
+{
+    display: flex;
+    width: 100%;
+    margin-top: 183px;
+    height: 1.8%;
+}
+.Logo
+{
+    width: 6.25%;
+    height: 88%;
+}
+.New_Tecnologies_Container
+{
+    display: flex;
+    width: 100%;
+    margin-top: 122px;
+    background-color: #f0f8ff;
+    height: 10%;
+}
+.New_Tecnologies_Content
+{
+    text-align: left;
+    height: 100%;
+    display:block;
+    margin-top: 119px;
+    margin-left: 4.4%;
+}
+.Not_Sure_To_Where_Start_Container
+{
+    margin-top: 117px;
+    display:block;
+    height: 598px;
+    width: 100%;
+}
+.Not_Sure_To_Where_Start_Content
+{
+    text-align: center;
+}
+.Option_Container
+{
+    display: flex;
+    width: 78%;
+    height:100px;
+}
+.Option_Button
+{
+    width: 100%;
+    height: 100%;
+    margin-top: -12.8%;
+    text-align: center;
+}
+.Option_Boder
+{
+    width: 29%;
+    height: 350px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    border: 1px solid #e4e4e4;
+}
+.Option_Content
+{
+    width: 86%;
+    height: 62.5%;
+    margin-left: 6.8%;
+    margin-right: 6.8%;
+    margin-top: 14.5%;
+    margin-bottom: 23.1%;
+    text-align: center;
+}
+.Last_Project_Container
+{
+    margin-top: 119px;
+    display: block;
+    width: 100%;
+    height: 791px;
+    background-color: #f0f8ff;
+}
+.Last_Project_Content
+{
+    padding-top: 120px;
+    width: 40.62%;
+    text-align: center;
+    margin-left: 29.68%;   
+}
+.Last_Project_Img
+{
+    display: flex;
+    width: 100%;
+    height: 319px;
+}
+.Consulting_Firm_Container
+{
+    width: 100%;
+    height: 501px;
+    display: flex;
+}
+.Consulting_Firm_Content
+{
+    display: block;
+    margin-top: 120px;
+    margin-left: 13.3%;
+    width: 25.5%;
+    height: 271px;
+}
+.Consulting_Firm_Border
+{
+    width: 21.8%;
+    height: 270px;
+    border-radius: 10px;
+    background-color: #f0f8ff;
+    margin-top: 120px;
+}
+.Consulting_Firm_Border_Content
+{
+    margin-top: 43px;
+    margin-left: 8.8%;
+    margin-bottom: 41px;
+    margin-right: 8.9%;
+    display: block;
+    width: 77.1%;
+    height: 187px;
+}
+.Stay_Up_Container
+{
+    display: flex;
+    height: 192px;
+    width: 100%;
+}
+.Stay_Up_Content
+{
+    margin-top: 68px;
+    margin-left: 13.5%;
+    width: 65.9%;
+    height: 60px;
+    font-family: "Inter";
+}
+.Stay_Up_Submit
+{
+    margin-left: 4.5%;
+    width: 100%;
+    margin-top: 60px;
+}
+.Footer
+{
+    height: 131px;
+    width: 100%;
+    display: flex;
+    background-color: #232323;
+}
+.Social_Media
+{
+    margin-top: 57px;
+    margin-bottom: 56px;
+    margin-left: 13.5%;
+    font-size: 18px;
+    width: 20.25%;
+    color: #ffffff;
+}
+.Footer_Logo
+{
+    margin-left: 25%;
+    margin-top: 50px;
+    margin-bottom: 56px;
+    width: 13.3%;
+}
+.Copyrights
+{
+    margin-left: 25.1%;
+    margin-top: 57px;
+    margin-bottom: 55px;
+    width: 35%;
+}
+@media screen and (max-width: 435px ){
+    .Top_Bar_Content
+    {
+    font-size: 9px !important;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Poppins";
+    margin-left: 6.3% !important;
+    margin-top: 3.18% !important;
+    }
+    .Top_Bar_Image
+    {
+        margin-left: 60.9% !important;position: absolute;width: 16px !important;
+    }
+    .fa-project-diagram
+    {
+        font-size: 36px !important;
+    }
+    .Content_Side
+    {
+        font-size: 16px !important;
+    }
+    .Content_Side_Normal
+    {
+        font-size: 8px !important;
+    }
+    .Features_Border_Side
+    {
+        margin-top: -11.5% !important;
+        position: relative;
+        display: block;
+        text-align: center;
+        width: 30.9% !important;
+        height: 90% !important;
+        border-radius: 10px;
+        background-color: #ffffff;
+        border: 1px solid #e4e4e4;
+    }
+    .fa-microchip
+    {
+        font-size: 36px !important;
+    }
+    .fa-hands-helping
+    {
+        font-size: 36px !important;
+    }
+    .Features
+    {
+        margin-left: 4.5% !important;
+        width: 93.1% !important;
+        height: 7.2% !important;
+        display:block;
+    }
+    .Modern_Consulting_Container1
+    {
+        font-size: 12px !important;
+    }
+    .mg_left
+    {
+        margin-left: 15% !important;
+    }
+    .Modern_Consulting_Content1
+    {
+        font-size: 35px !important;
+        color: #0f66dc;
+        font-weight: 600;
+        font-family: 'Inter';
+        text-align: center;
+    }
+    .Modern_Consulting_Content2
+    {
+        font-size: 15px !important;
+        font-family: 'Inter SemiBold';
+        font-weight: 550;
+        text-align: center;
+    }
+    .Modern_Consulting_Content3
+    {
+        font-size: 10px !important;
+        font-family: 'Inter';
+        font-weight: 400;
+        text-align: center;
+    }
+    .Modern_Consulting_Content4
+    {
+        font-size: 35px !important;
+        color: #0f66dc;
+        font-weight: 600;
+        font-family: 'Inter';
+        text-align: center;
+    }
+    .Modern_Consulting_Content5
+    {
+        font-size: 15px !important;
+        font-family: 'Inter SemiBold';
+        font-weight: 550;
+        text-align: center;
+    }
+    .Modern_Consulting_Content6
+    {
+        font-size: 10px !important;
+        font-family: 'Inter';
+        font-weight: 400;
+        text-align: center;
+    }
+    .Modern_Consulting_Content7
+    {
+        font-size: 35px !important;
+        color: #0f66dc;
+        font-weight: 600;
+        font-family: 'Inter';
+        text-align: center;
+    }
+    .Modern_Consulting_Content8
+    {
+        font-size: 15px !important;
+        font-family: 'Inter SemiBold';
+        font-weight: 550;
+        text-align: center;
+    }
+    .Modern_Consulting_Content9
+    {
+        font-size: 10px !important;
+        font-family: 'Inter';
+        font-weight: 400;
+        text-align: center;
+    }
+    .Future
+    {
+        margin-top: 93px !important;
+        width: 100% !important;
+        height: 7.09% !important;
+        display: flex;
+    }
+    .Futere_Content1
+    {
+        font-size: 15px !important;
+        font-family: 'Inter SemiBold';
+        font-weight: 800;        
+    }
+    .Futere_Content2
+    {
+        font-size: 10px !important;
+        font-family: 'Inter';
+        font-weight: 400;   
+    }
+    .Button1
+    {
+        width: 65px !important;
+        height: 21px !important;
+        border-radius: 35px;
+    }
+    .Futere_Button1
+    {
+        color: #ffffff; 
+        font-family: 'Poppins SemiBold'; 
+        font-size: 9px !important; 
+        font-weight: bold;
+    }
+    .Futere_Button2
+    {
+        background-color: #f0f8ff;
+        margin-left: 5px !important;
+        color: #0f66dc; 
+        font-family: 'Poppins SemiBold'; 
+        font-size: 9px !important; 
+        font-weight: bold;
+    }
+    .Futere_Content
+    {
+        text-align: left;
+        width: 35%;
+        height: 15%;
+        display:block;
+        margin-top: 2.5%;
+        margin-left: 15%;
+        margin-right: 5%;
+    }
+    .Futre_Img
+    {
+        width: 40% !important;
+        height: 100% !important;
+    }
+    .Logo_Img
+    {
+        width: 150% !important;
+    }
+    .Logo_Container
+    {
+        margin-top: 15%         !important;;
+    }
+    .New_Tecnologies_Container
+    {
+        margin-top: 30px         !important;; 
+    }
+    .New_Tecnologies_Container_Img
+    {
+        width:50% !important;
+        height:200px !important;
+    }
+    .New_Tecnologies_Content1
+    {
+        font-size: 14px !important;
+        line-height: 12px !important;
+        color: #0f66dc;
+        font-weight: 600;
+        font-family: 'Inter';    
+    }
+    .New_Tecnologies_Content2
+    {
+        font-size: 7.4px !important;
+        color: #2c2c2c;
+        font-weight: 600;
+        font-family: 'Inter';
+    }
+    .New_Tecnologies_Content
+    {
+        text-align: left;
+        height: 100%;
+        display:block;
+        margin-top: 5px         !important;;
+        margin-left: 3.4% ;
+    }
+    .New_Tecnologies_Button
+    {
+        color: #ffffff;
+        margin-top: 15px !important;
+        font-family: 'Poppins SemiBold'; 
+        font-size: 8px !important; 
+        font-weight: bold;
+        text-align: center;
+        background-color: #0f66dc;
+    }
+    .New_Tecnologies_Content
+    {
+        text-align: left;
+        height: 100%;
+        display:block;
+        margin-top: 25px !important;
+        margin-left: 4.4% !important;
+    }
+    .Not_Sure_To_Where_Start_Content1
+    {
+        font-size: 15px !important;
+        color: #2c2c2c;
+        font-weight: 500;
+        font-family: 'Inter';
+        text-align: center;
+        width: 60.6% !important;
+        margin-left: 23.1% !important
+    }
+    .Not_Sure_To_Where_Start_Content2
+    {
+        font-size: 9px !important;
+        color: #748494;
+        font-weight: 400;
+        font-family: 'Inter';
+        text-align: center;
+        width: 39.75%;
+        margin-left: 33.1%;
+    }
+    .Not_Sure_To_Where_Start_Content
+    {
+        margin-top: -5% !important;
+    }
+    .Option_Content1
+    {
+        font-size: 16px !important;
+    }
+    .Option_Content2
+    {
+        font-size: 8px !important;
+    }
+    .fa-wordpress
+    {
+        color: #0f66dc; 
+        font-size: 48px !important;
+        text-align:center;   
+    }
+    .Option_Boder
+    {
+        height: 200px;
+    }
+    .Img_Adobe
+    {
+        width: 48px;
+        height: 48px;
+    }
+    .Option_Content3
+    {
+        font-size: 16px;
+        line-height: 44px;
+    }
+    .Option_Content4
+    {
+        font-size: 8px !important;
+    }
+    .Option_Button1
+    {
+        width: 40px !important;
+        height: 40px !important;
+        border-radius: 20px; 
+    }
+    .fa-arrow-right
+    {
+        font-size: 12px !important; 
+    }
+    .Option_Button
+    {
+        margin-top: 42% !important;
+    }
+    .fa-stripe-s
+    {
+        font-size: 48px !important;
+    }
+    .Option_Content5
+    {
+        font-size: 16px !important;
+    }
+    .Option_Content6
+    {
+        font-size: 8px !important; 
+    }
+    .Last_Project_Content1
+    {
+        font-size: 18px !important;
+    }
+    .Last_Project_Content2
+    {
+        font-size: 8px !important;
+        line-height: 16px;
+    }
+    .Last_Project_Img
+    {
+        height: 119px;
+    }
+    .Last_Project_Container
+    {
+        margin-top: 69px !important;
+        display: block;
+        width: 100%;
+        height: 491px;
+        background-color: #f0f8ff;
+    }
+    .Not_Sure_To_Where_Start_Container
+    {
+        height: 319px !important;
+        margin-top: 100px !important;
+    }
+    .Last_Project_Img_Button1
+    {
+        font-size: 10px !important;
+        margin-top: 123px !important;
+        margin-left: 2.5% !important;    
+        width: 25px !important;
+    }
+    .Last_Project_Img_Button2
+    {
+        font-size: 10px !important;
+        width: 25px !important;
+        margin-top: 123px !important;
+        margin-left: 2.5% !important;;   
+    }
+    .Last_Project_Img1
+    {
+        margin-left: 16px !important;
+        margin-top: 80px !important;
+        width: 23% !important;
+        height:115px !important;
+    }
+    .Last_Project_Img2
+    {
+        margin-left: 14px !important;
+        margin-top: 80px !important;
+        width: 23% !important;
+        height:115px !important;;
+    }
+    .Last_Project_Img3
+    {
+        margin-left: 13px !important;
+        margin-top: 80px !important;
+        width: 23% !important;
+        height:115px !important;
+    }
+    .Consulting_Firm_Content1
+    {
+        font-size: 18px !important;
+    }
+    .Consulting_Firm_Content2
+    {
+        font-size: 10px !important;
+        line-height: 16px !important;
+    }
+    .Consulting_Firm_Button1
+    {
+        width: 76.5% !important;
+        height: 40px !important;
+        border-radius: 35px ;
+        margin-top: 29px !important;
+        font-size: 10px !important;
+    }
+    .fa-cloud
+    {
+        font-size: 42px !important;
+    }
+    .Consulting_Firm_Border_Content1
+    {
+        font-size: 14px !important;
+    }
+    .Consulting_Firm_Border_Content2
+    { 
+        font-size: 10px !important;; 
+    }
+    .fa-database
+    {
+        font-size: 42px !important;;
+    }
+    .Consulting_Firm_Border_Content3
+    {
+        font-size: 14px !important;;
+    }
+    .Consulting_Firm_Border_Content4
+    {
+        font-size: 10px !important;; 
+    }
+    .Last_Project_Content
+    {
+        padding-top: 60px !important;
+        width: 40.62%;
+        text-align: center;
+        margin-left: 29.68%;   
+    }
+    .Stay_Up_Content1
+    {
+        font-size: 14px !important;
+    }
+    .Stay_Up_Content2
+    {
+        font-size: 9px !important;
+    }
+    .Stay_Up_Submit_Textbox
+    {
+        width: 90.5% !important;
+        height: 40px !important;
+        border-radius: 35px;
+        background-color: #f5f8fd;
+        border: 1px solid #e5e5e5;    
+    }
+    .Stay_Up_Submit
+    {
+        margin-top: 80px !important;
+    }
+    .Stay_Up_Submit_Button
+    {
+        margin-left:-85px !important;
+        position: absolute;
+        width: 100px !important;
+        height: 40px !important;
+        border-radius: 35px;
+        font-size: 12px !important;
+    }
+    .Social_Media
+    {
+        font-size: 8.4px !important;
+        width: 100% ;
+    }
+    .Footer_Logo
+    {
+        margin-left: 25% !important;
+        margin-top: 50px !important;
+        margin-bottom: 50px !important;
+        width: 13.3%;
+    }
+    .Copyrights
+    {
+        margin-left: 25.1% !important;
+        margin-top: 57px !important;
+        margin-bottom: 55px !important;
+        width: 35%;
+    }
+    .Footer_Logo_Text
+    {
+        font-size: 15px !important;
+        letter-spacing: 3px;  
+    }
+    .Copyrights_Text
+    {
+        font-size: 7px !important;  
+    }
+}
+@media screen and (max-width: 375px){
+    .Option_Button
+    {
+        margin-top: 60% !important;
+    }
+    .Consulting_Firm_Border_Content1
+    {
+        font-size: 12px !important;
+    }
+    .Consulting_Firm_Border_Content2
+    {
+        font-size: 9px !important;
+    }
+    .Consulting_Firm_Border_Content3
+    {
+        font-size: 12px !important;
+    }
+    .Consulting_Firm_Border_Content4
+    {
+        font-size: 9px !important;
+    }
+    .Option_Button {
+        margin-top: 60% !important;
+    }
+    .Option_Button1
+    {
+        width: 30px !important;
+        height: 30px !important;
+    }
+    .Last_Project_Content
+    {
+        padding-top: 40px !important;
+    }
+    .Last_Project_Img_Button1
+    {
+        margin-top: 80px !important;
+    }
+    .Last_Project_Img1
+    {
+        margin-top: 40px !important;
+    }
+    .Last_Project_Img2
+    {
+        margin-top: 40px !important;
+    }
+    .Last_Project_Img3
+    {
+        margin-top: 40px !important;
+    }
+    .Last_Project_Img_Button2
+    {
+        margin-top: 80px !important
+    }
+}
+@media screen and (max-width: 320px){
+    .Option_Button
+    {
+        margin-top: 73% !important;
+    }
+    .Content_Side
+    {
+        font-size: 13px !important;
+    }
+    .Option_Content1
+    {
+        font-size: 12px !important;
+    }
+    .Option_Content2
+    {
+        font-size: 7px !important;
+    }
+    .Option_Content3
+    {
+        font-size: 12px !important;
+    }
+    .Option_Content4
+    {
+        font-size: 7px !important; 
+    }
+    .Option_Content5
+    {
+        font-size: 12px !important;
+    }
+    .Option_Content6
+    {
+        font-size: 7px !important;
+    }
+    .Option_Button1
+    {
+        width: 30px !important;
+        height: 30px !important;
+    }
+    .Consulting_Firm_Border_Content1
+    {
+        font-size: 12px !important;
+    }
+    .Consulting_Firm_Border_Content2
+    {
+        font-size: 9px !important;
+    }
+    .Consulting_Firm_Border_Content3
+    {
+        font-size: 12px !important;
+    }
+    .Consulting_Firm_Border_Content4
+    {
+        font-size: 9px !important;
+    }
+    .Consulting_Firm_Content1
+    {
+        font-size: 13.5px !important;
+    }
+    .Consulting_Firm_Content2
+    {
+        font-size: 9px !important;
+    }
+    .Consulting_Firm_Border_Content1
+    {
+        font-size: 10px !important;
+    }
+    .Consulting_Firm_Border_Content2
+    {
+        font-size: 8px !important;
+    }
+    .Consulting_Firm_Border_Content3
+    {
+        font-size: 10px !important;
+    }
+    .Consulting_Firm_Border_Content4
+    {
+        font-size: 8px !important;
+    } 
+    .mg_left
+    {
+        margin-left: 10% !important;
+    }                                                                      
+}
+@media screen and (max-width: 768px) and (min-width:436px) {
+    .Modern_Consulting_Content2
+    {
+        font-size: 20px;
+    }
+    .Modern_Consulting_Content3
+    {
+        font-size: 14px;
+    }
+    .Modern_Consulting_Content5
+    {
+        font-size: 20px;
+    }
+    .Modern_Consulting_Content6
+    {
+        font-size: 14px;
+    }
+    .Modern_Consulting_Content8
+    {
+        font-size: 20px;
+    }
+    .Modern_Consulting_Content9
+    {
+        font-size: 14px;
+    }
+    .mg_left
+    {
+        margin-left: 15%;
+    }
+    .Futere_Content1
+    {
+        font-size: 20px;
+    }
+    .Futere_Content1
+    {
+        font-size: 10px;
+    }
+    .Futre_Img
+    {
+        width: 40%;
+        height: 15%;
+        margin-left: 2%;
+    }
+    .Logo_Img
+    {
+        width: 150%;
+    }
+    .New_Tecnologies_Container
+    {
+        margin-top: 100px;
+    }
+    .Logo_Container
+    {
+        margin-top: 100px;
+    }
+    .New_Tecnologies_Container_Img
+    {
+        width: 57%;
+        height: 30%;
+    }
+    .Button1
+    {
+        width: 150px;
+        height: 40px;
+    }
+    .New_Tecnologies_Button
+    {
+        margin-top: 10px;
+        font-size: 10px;
+    }
+    .New_Tecnologies_Content
+    {
+        margin-top: 40px
+    }
+    .New_Tecnologies_Content1
+    {
+        font-size: 14px;
+    }
+    .New_Tecnologies_Content2
+    {
+        font-size: 10px;
+    }
+    .Not_Sure_To_Where_Start_Container
+    {
+        margin-top: 60px;
+    }
+    .Not_Sure_To_Where_Start_Content1
+    {
+        font-size: 26px;
+    }
+    .Not_Sure_To_Where_Start_Content2
+    {
+        font-size: 14px;
+    }
+    .Option_Button1
+    {
+        width: 60px;
+        height: 60px;
+    }
+    .Option_Button
+    {
+        margin-top: 80px !important;
+    }
+    .Last_Project_Content1
+    {
+        font-size: 26px;
+    }
+    .Last_Project_Content
+    {
+        padding-top: 80px;
+    }
+    .Last_Project_Content2
+    {
+        font-size: 13px;
+    }
+    .Last_Project_Img1
+    {
+        margin-top: 80px;
+        width: 25.4%;
+    }
+    .Last_Project_Img2
+    {
+        margin-top: 80px;
+        width: 25.4%;
+    }
+    .Last_Project_Img3
+    {
+        margin-top: 80px;
+        width: 25.4%;
+    }
+    .Last_Project_Img_Button1
+    {
+        margin-top: 230px;
+    }
+    .Last_Project_Img_Button2
+    {
+        margin-top: 230px;
+    }
+    .Consulting_Firm_Content1
+    {
+        font-size: 25px;
+    }
+    .Consulting_Firm_Content2
+    {
+        font-size: 12px;
+    }
+    .fa-cloud
+    {
+        font-size: 50px;
+    }
+    .fa-database
+    {
+        font-size: 50px;
+    }
+    .Consulting_Firm_Border_Content1
+    {
+        font-size: 17px;
+    }
+    .Consulting_Firm_Border_Content3
+    {
+        font-size: 17px;
+    }
+    .Consulting_Firm_Border_Content2
+    {
+        font-size: 12px;
+    }
+    .Consulting_Firm_Border_Content4
+    {
+        font-size: 12px;
+    }
+    .Consulting_Firm_Button1
+    {
+        width: 86.5%;
+        height: 50px;
+        margin-top: 20px;
+    }
+    .Stay_Up_Content1
+    {
+        font-size: 22px;
+    }
+    .Stay_Up_Content2
+    {
+        font-size: 12px;
+    }
+    .Stay_Up_Submit_Textbox
+    {
+        width: 95.5%;
+    }
+    .Social_Media
+    {
+        font-size: 14px;
+    }
+    .Footer_Logo_Text
+    {
+        font-size: 20px;
+    }
+    .Copyrights_Text
+    {
+        font-size: 10px;
+    }
+}
+@media screen and (max-width: 1024px) and (min-width:769px){
+    .Option_Button
+    {
+        margin-top: 0%;
+    }
+    .Last_Project_Img_Button2
+    {
+        margin-left: 19px;
+        margin-right: 19px;
+    }
+    .Last_Project_Img_Button1
+    {
+        margin-left: 19px;
+    }
+    .fa-cloud
+    {
+        font-size: 45px;
+    }
+    .fa-database
+    {
+        font-size: 45px;
+    }
+    .Top_Bar_Image
+    {
+        margin-left: 50%;
+    }
+}
+@media screen and (max-width: 1600px) and (min-width:1400px){
+    .Social_Media
+    {
+        width: 30%;
+    }
+}
