@@ -2,13 +2,24 @@
     margin: 0;
     padding: 0;
     border: 0;
+	font-family: 'inter'
+}
+.Img_Adobe	
+{
+	width:72px;
+	height:72px;
+}
+.Futre_Img
+{
+	width:30%;
+	height:340px
 }
 .Copyrights_Text
 {
     font-size: 18px;
     color: #ffffff;
     font-weight: 500;
-    font-family: 'Poppins';    
+    font-family: 'Poppins', sans-serif; 
 }
 .Footer_Logo_Text
 {
@@ -17,7 +28,7 @@
     text-transform: uppercase;
     color: #ffffff;
     font-weight: 900;
-    font-family: 'Poppins';    
+    font-family: 'Poppins', sans-serif;  
 }
 .Stay_Up_Submit_Button
 {
@@ -30,7 +41,7 @@
     color: white;
     font-size: 14px;
     font-weight: 600;
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     text-align: center;
 }
 .Stay_Up_Submit_Textbox
@@ -55,14 +66,14 @@
 }
 .Consulting_Firm_Border_Content3
 {
-    font-family: 'Inter SemiBold';
+    font-family: 'inter', sans-serif;
     font-size: 24px;
     color: #0f66dc;
     font-weight: bold;
 }
 .Consulting_Firm_Border_Content4
 {
-    font-family: 'Inter'; 
+    font-family: 'inter'; 
     font-size: 15px; 
     color: #8a8a8a;
 }
@@ -78,14 +89,14 @@
 }
 .Consulting_Firm_Border_Content1
 {
-    font-family: 'Inter SemiBold';
+    font-family: 'inter';
     font-size: 24px;
     color: #0f66dc;
     font-weight: bold;
 }
 .Consulting_Firm_Border_Content2
 {
-    font-family: 'Inter'; 
+    font-family: 'inter'; 
     font-size: 15px; 
     color: #8a8a8a;
 }
@@ -108,7 +119,7 @@
     font-size: 35px;
     color: #ffffff;
     font-weight: 500;
-    font-family: 'Inter';
+    font-family: 'inter';
 }
 .Consulting_Firm_Content2
 {
@@ -116,7 +127,7 @@
     line-height: 26px;
     color: #ffffff;
     font-weight: 500;
-    font-family: 'Inter';
+    font-family: 'inter';
 }
 .Last_Project_Img1
 {
@@ -136,7 +147,7 @@
 {
     margin-left: 13px;
     margin-top: 160px;
-    width:29.4%;
+    width:29%;
     height:315px; 
 }
 .Last_Project_Img_Button1
@@ -159,14 +170,14 @@
     height: 36px;
     border-radius: 40px; 
     margin-top: 323px;
-    margin-left: 29px;    
+    margin-left: 25px;    
 }
 .Last_Project_Content1
 {
-    font-size: 36px;
+    font-size: 35px;
     color: #2c2c2c;
     font-weight: 500;
-    font-family: 'Inter';
+    font-family: 'inter';
     text-align: center;
 }
 .Last_Project_Content2
@@ -175,7 +186,7 @@
     line-height: 26px;
     color: #748494;
     font-weight: 400;
-    font-family: 'Inter';
+    font-family: 'inter';
     text-align: center;
 }
 .fa-stripe-s
@@ -203,42 +214,42 @@
     font-size: 24px;
     line-height: 48px;
     color: black;
-    font-weight: 600;
-    font-family: 'Inter SemiBold';    
+    font-weight: 700;
+    font-family: 'inter';    
 }
 .Option_Content2
 {
     color: #8a8a8a;
-    font-size: 15px;
-    font-family:'Inter';
+    font-size: 14px;
+    font-family:'inter';
 }
 .Option_Content3
 {
     font-size: 24px;
     line-height: 48px;
     color: black;
-    font-weight: 600;
-    font-family: 'Inter SemiBold';
+    font-weight: 700;
+    font-family: 'inter';
 }
 .Option_Content4
 {
     color: #8a8a8a;
-    font-size: 15px;
-    font-family:'Inter';
+    font-size: 14px;
+    font-family:'inter';
 }
 .Option_Content5
 {
     font-size: 24px;
     line-height: 48px;
     color: black;
-    font-weight: 600;
-    font-family: 'Inter SemiBold';    
+    font-weight: 700; 
+    font-family: 'inter';    
 }
 .Option_Content6
 {
     color: #8a8a8a;
-    font-size: 15px;
-    font-family:'Inter';
+    font-size: 14px;
+    font-family:'inter';
 }
 .fa-wordpress
 {
@@ -250,8 +261,8 @@
 {
     font-size: 36px;
     color: #2c2c2c;
-    font-weight: 500;
-    font-family: 'Inter';
+    font-weight: 700;
+    font-family: 'inter';
     text-align: center;
     width: 60.6%;
     margin-left: 23.1%
@@ -261,17 +272,17 @@
     font-size: 16px;
     color: #748494;
     font-weight: 400;
-    font-family: 'Inter';
+    font-family: 'inter';
     text-align: center;
     width: 39.75%;
-    margin-left: 33.1%;
+    margin-left: 32.1%;
 }
 .New_Tecnologies_Button
 {
     background-color: #0f66dc;
     color: #ffffff;
     margin-top: 49px;
-    font-family: 'Poppins SemiBold'; 
+    font-family: 'Poppins'; 
     font-size: 14px; 
     font-weight: bold;
     text-align: center;
@@ -279,26 +290,27 @@
 .New_Tecnologies_Content1
 {
     font-size: 24px;
-    line-height: 48px;
+    line-height: 38px;
     color: #0f66dc;
     font-weight: 600;
-    font-family: 'Inter';    
+    font-family: 'inter';    
 }
 .New_Tecnologies_Content2
 {
     font-size: 14px;
+    line-height: 22px;
     color: #2c2c2c;
     font-weight: 600;
-    font-family: 'Inter';
+    font-family: 'inter';
 }
 .New_Tecnologies_Container_Img
 {
-    width:68.8%;height:576px;
+    width:48.8%;height:576px;
 }
 .Futere_Button1
 {
     color: #ffffff; 
-    font-family: 'Poppins SemiBold'; 
+    font-family: 'Poppins'; 
     font-size: 14px; 
     font-weight: bold;
 }
@@ -307,20 +319,20 @@
     background-color: #f0f8ff;
     margin-left: 20px;
     color: #0f66dc; 
-    font-family: 'Poppins SemiBold'; 
+    font-family: 'Poppins'; 
     font-size: 14px; 
     font-weight: bold;
 }
 .Futere_Content1
 {
     font-size: 24px;
-    font-family: 'Inter SemiBold';
+    font-family: "inter";
     font-weight: 800;        
 }
 .Futere_Content2
 {
     font-size: 16px;
-    font-family: 'Inter';
+    font-family: 'inter';
     font-weight: 400;   
 }
 .Modern_Consulting_Content1
@@ -328,20 +340,20 @@
     font-size: 72px;
     color: #0f66dc;
     font-weight: 600;
-    font-family: 'Inter';
+    font-family: 'inter';
     text-align: center;
 }
 .Modern_Consulting_Content2
 {
     font-size: 24px;
-    font-family: 'Inter SemiBold';
-    font-weight: 550;
+    font-family: 'inter';
+    font-weight: 700;
     text-align: center;
 }
 .Modern_Consulting_Content3
 {
     font-size: 16px;
-    font-family: 'Inter';
+    font-family: 'inter';
     font-weight: 400;
     text-align: center;
 }
@@ -350,20 +362,20 @@
     font-size: 72px;
     color: #0f66dc;
     font-weight: 600;
-    font-family: 'Inter';
+    font-family: 'inter';
     text-align: center;
 }
 .Modern_Consulting_Content5
 {
     font-size: 24px;
-    font-family: 'Inter SemiBold';
-    font-weight: 550;
+    font-family: 'inter';
+    font-weight: 700;
     text-align: center;
 }
 .Modern_Consulting_Content6
 {
     font-size: 16px;
-    font-family: 'Inter';
+    font-family: 'inter';
     font-weight: 400;
     text-align: center;
 }
@@ -372,20 +384,20 @@
     font-size: 72px;
     color: #0f66dc;
     font-weight: 600;
-    font-family: 'Inter';
+    font-family: 'inter';
     text-align: center;
 }
 .Modern_Consulting_Content8
 {
     font-size: 24px;
-    font-family: 'Inter SemiBold';
-    font-weight: 550;
+    font-family: 'inter';
+    font-weight: 700;
     text-align: center;
 }
 .Modern_Consulting_Content9
 {
     font-size: 16px;
-    font-family: 'Inter';
+    font-family: 'inter';
     font-weight: 400;
     text-align: center;
 }
@@ -417,7 +429,7 @@
 }
 .Top_Bar_Image
 {
-        margin-left: 60.9%;position: absolute;
+        margin-left: 63.9%;position: absolute;
 }
 .Top_Bar_Content
 {
@@ -425,7 +437,7 @@
     text-transform: uppercase;
     color: #ffffff;
     font-weight: 700;
-    font-family: "Poppins";
+    font-family: 'poppins';
     margin-left: 13.3%;
     margin-top: 3.18%;
 }
@@ -438,7 +450,7 @@
 }
 .Features_Border_Mid
 {
-    margin-top: -13.5%;
+    margin-top: -8.5%;
     position: relative; 
     display: block;
     text-align: center;
@@ -455,7 +467,7 @@
 }
 .Features_Border_Side
 {
-    margin-top: -11.5%;
+    margin-top: -6.5%;
     position: relative;
     display: block;
     text-align: center;
@@ -474,7 +486,7 @@
 }
 .Content_Side
 {
-    font-family: 'Inter SemiBold', sans-serif;
+    font-family: 'inter', sans-serif ;
     font-size: 24px;
     margin-bottom: 6%;
     margin-top: 12%;
@@ -501,7 +513,7 @@
     font-size: 30px;
     color: #2c2c2c;
     font-weight: 600;
-    font-family: "Inter";
+    font-family: 'inter'; 
 }
 .Modern_Consulting_Container2
 {
@@ -592,6 +604,7 @@
 .Not_Sure_To_Where_Start_Content
 {
     text-align: center;
+    margin-left: -5%;
 }
 .Option_Container
 {
@@ -603,13 +616,13 @@
 {
     width: 100%;
     height: 100%;
-    margin-top: -12.8%;
+    margin-top: -11.8%;
     text-align: center;
 }
 .Option_Boder
 {
-    width: 29%;
-    height: 350px;
+    width: 22%;
+    height: 310px;
     border-radius: 10px;
     background-color: #ffffff;
     border: 1px solid #e4e4e4;
@@ -620,7 +633,7 @@
     height: 62.5%;
     margin-left: 6.8%;
     margin-right: 6.8%;
-    margin-top: 14.5%;
+    margin-top: 12.5%;
     margin-bottom: 23.1%;
     text-align: center;
 }
@@ -689,7 +702,7 @@
     margin-left: 13.5%;
     width: 65.9%;
     height: 60px;
-    font-family: "Inter";
+    font-family: 'inter';
 }
 .Stay_Up_Submit
 {
@@ -728,15 +741,15 @@
     width: 35%;
 }
 @media screen and (max-width: 435px ){
-    .Top_Bar_Content
+	.Top_Bar_Content
     {
-    font-size: 9px !important;
-    text-transform: uppercase;
-    color: #ffffff;
-    font-weight: 700;
-    font-family: "Poppins";
-    margin-left: 6.3% !important;
-    margin-top: 3.18% !important;
+		font-size: 12px !important;
+		text-transform: uppercase;
+		color: #ffffff;
+		font-weight: 700;
+		font-family: 'Poppins';
+		margin-left: 10.3% !important;
+		margin-top: 3.18% !important;
     }
     .Top_Bar_Image
     {
@@ -756,7 +769,7 @@
     }
     .Features_Border_Side
     {
-        margin-top: -11.5% !important;
+        margin-top: -6.5% !important;
         position: relative;
         display: block;
         text-align: center;
@@ -787,27 +800,27 @@
     }
     .mg_left
     {
-        margin-left: 15% !important;
+        margin-left: 8% !important;
     }
     .Modern_Consulting_Content1
     {
         font-size: 35px !important;
         color: #0f66dc;
         font-weight: 600;
-        font-family: 'Inter';
+        font-family: 'inter';
         text-align: center;
     }
     .Modern_Consulting_Content2
     {
         font-size: 15px !important;
-        font-family: 'Inter SemiBold';
+        font-family: 'inter';
         font-weight: 550;
         text-align: center;
     }
     .Modern_Consulting_Content3
     {
-        font-size: 10px !important;
-        font-family: 'Inter';
+        font-size: 7px !important;
+        font-family: 'inter';
         font-weight: 400;
         text-align: center;
     }
@@ -816,20 +829,20 @@
         font-size: 35px !important;
         color: #0f66dc;
         font-weight: 600;
-        font-family: 'Inter';
+        font-family: 'inter';
         text-align: center;
     }
     .Modern_Consulting_Content5
     {
         font-size: 15px !important;
-        font-family: 'Inter SemiBold';
+        font-family: 'inter';
         font-weight: 550;
         text-align: center;
     }
     .Modern_Consulting_Content6
     {
-        font-size: 10px !important;
-        font-family: 'Inter';
+        font-size: 7px !important;
+        font-family: 'inter';
         font-weight: 400;
         text-align: center;
     }
@@ -838,20 +851,20 @@
         font-size: 35px !important;
         color: #0f66dc;
         font-weight: 600;
-        font-family: 'Inter';
+        font-family: 'inter';
         text-align: center;
     }
     .Modern_Consulting_Content8
     {
         font-size: 15px !important;
-        font-family: 'Inter SemiBold';
+        font-family: 'inter';
         font-weight: 550;
         text-align: center;
     }
     .Modern_Consulting_Content9
     {
-        font-size: 10px !important;
-        font-family: 'Inter';
+        font-size: 7px !important;
+        font-family: 'inter';
         font-weight: 400;
         text-align: center;
     }
@@ -865,13 +878,13 @@
     .Futere_Content1
     {
         font-size: 15px !important;
-        font-family: 'Inter SemiBold';
+        font-family: 'inter';
         font-weight: 800;        
     }
     .Futere_Content2
     {
         font-size: 10px !important;
-        font-family: 'Inter';
+        font-family: 'inter';
         font-weight: 400;   
     }
     .Button1
@@ -883,7 +896,7 @@
     .Futere_Button1
     {
         color: #ffffff; 
-        font-family: 'Poppins SemiBold'; 
+        font-family: 'Poppins'; 
         font-size: 9px !important; 
         font-weight: bold;
     }
@@ -892,7 +905,7 @@
         background-color: #f0f8ff;
         margin-left: 5px !important;
         color: #0f66dc; 
-        font-family: 'Poppins SemiBold'; 
+        font-family: 'Poppins'; 
         font-size: 9px !important; 
         font-weight: bold;
     }
@@ -908,8 +921,8 @@
     }
     .Futre_Img
     {
-        width: 40% !important;
-        height: 100% !important;
+        width: 180px !important;
+        height: 250px !important;
     }
     .Logo_Img
     {
@@ -926,22 +939,23 @@
     .New_Tecnologies_Container_Img
     {
         width:50% !important;
-        height:200px !important;
+        height:229px !important;
     }
     .New_Tecnologies_Content1
     {
         font-size: 14px !important;
-        line-height: 12px !important;
+        line-height: 14px !important;
         color: #0f66dc;
         font-weight: 600;
-        font-family: 'Inter';    
+        font-family: 'inter';    
     }
     .New_Tecnologies_Content2
     {
-        font-size: 7.4px !important;
-        color: #2c2c2c;
+        font-size: 8.4px !important;
+        line-height:10.4px !important;
+		color: #2c2c2c;
         font-weight: 600;
-        font-family: 'Inter';
+        font-family: 'inter';
     }
     .New_Tecnologies_Content
     {
@@ -955,7 +969,7 @@
     {
         color: #ffffff;
         margin-top: 15px !important;
-        font-family: 'Poppins SemiBold'; 
+        font-family: 'Poppins'; 
         font-size: 8px !important; 
         font-weight: bold;
         text-align: center;
@@ -984,22 +998,23 @@
         font-size: 9px !important;
         color: #748494;
         font-weight: 400;
-        font-family: 'Inter';
+        font-family: 'inter';
         text-align: center;
         width: 39.75%;
         margin-left: 33.1%;
     }
     .Not_Sure_To_Where_Start_Content
     {
-        margin-top: -5% !important;
+        margin-top: -1% !important;
     }
     .Option_Content1
     {
-        font-size: 16px !important;
+        font-size: 12px !important;
     }
     .Option_Content2
     {
-        font-size: 8px !important;
+		margin-top:-20px;
+        font-size: 7px !important;
     }
     .fa-wordpress
     {
@@ -1018,17 +1033,18 @@
     }
     .Option_Content3
     {
-        font-size: 16px;
+        font-size: 12px;
         line-height: 44px;
     }
     .Option_Content4
     {
-        font-size: 8px !important;
+       	margin-top:-20px;
+        font-size: 7px !important;
     }
     .Option_Button1
     {
-        width: 40px !important;
-        height: 40px !important;
+        width: 30px !important;
+        height: 30px !important;
         border-radius: 20px; 
     }
     .fa-arrow-right
@@ -1037,7 +1053,7 @@
     }
     .Option_Button
     {
-        margin-top: 42% !important;
+        margin-top: 72% !important;
     }
     .fa-stripe-s
     {
@@ -1045,11 +1061,12 @@
     }
     .Option_Content5
     {
-        font-size: 16px !important;
+        font-size: 12px !important;
     }
     .Option_Content6
     {
-        font-size: 8px !important; 
+       	margin-top:-20px;
+        font-size: 7px !important;
     }
     .Last_Project_Content1
     {
@@ -1069,18 +1086,18 @@
         margin-top: 69px !important;
         display: block;
         width: 100%;
-        height: 491px;
+        height: 350px;
         background-color: #f0f8ff;
     }
     .Not_Sure_To_Where_Start_Container
     {
         height: 319px !important;
-        margin-top: 100px !important;
+        margin-top: 50px !important;
     }
     .Last_Project_Img_Button1
     {
         font-size: 10px !important;
-        margin-top: 123px !important;
+        margin-top: 70px !important;
         margin-left: 2.5% !important;    
         width: 25px !important;
     }
@@ -1088,30 +1105,38 @@
     {
         font-size: 10px !important;
         width: 25px !important;
-        margin-top: 123px !important;
+        margin-top: 70px !important;
         margin-left: 2.5% !important;;   
     }
     .Last_Project_Img1
     {
         margin-left: 16px !important;
-        margin-top: 80px !important;
+        margin-top: 27px !important;
         width: 23% !important;
         height:115px !important;
     }
     .Last_Project_Img2
     {
         margin-left: 14px !important;
-        margin-top: 80px !important;
+        margin-top: 27px !important;
         width: 23% !important;
         height:115px !important;;
     }
     .Last_Project_Img3
     {
         margin-left: 13px !important;
-        margin-top: 80px !important;
+        margin-top: 27px !important;
         width: 23% !important;
         height:115px !important;
     }
+	.Consulting_Firm_Content
+	{
+		margin-top:80px !important;
+	}
+	.Consulting_Firm_Border
+	{
+		margin-top:80px !important;
+	}
     .Consulting_Firm_Content1
     {
         font-size: 18px !important;
@@ -1133,9 +1158,13 @@
     {
         font-size: 42px !important;
     }
+	.Consulting_Firm_Container
+	{
+		height:420px;
+	}
     .Consulting_Firm_Border_Content1
     {
-        font-size: 14px !important;
+        font-size: 12px !important;
     }
     .Consulting_Firm_Border_Content2
     { 
@@ -1147,7 +1176,7 @@
     }
     .Consulting_Firm_Border_Content3
     {
-        font-size: 14px !important;;
+        font-size: 12px !important;;
     }
     .Consulting_Firm_Border_Content4
     {
@@ -1336,7 +1365,7 @@
     }
     .Consulting_Firm_Border_Content1
     {
-        font-size: 9px !important;
+        font-size: 10px !important;
     }
     .Consulting_Firm_Border_Content2
     {
@@ -1344,7 +1373,7 @@
     }
     .Consulting_Firm_Border_Content3
     {
-        font-size: 9px !important;
+        font-size: 10px !important;
     }
     .Consulting_Firm_Border_Content4
     {
@@ -1356,42 +1385,92 @@
     }                                                                      
 }
 @media screen and (max-width: 768px) and (min-width:436px) {
-    .Modern_Consulting_Content2
+    .Modern_Consulting_Container1
+	{
+		font-size:20px
+	}
+	.Features_Border_Side
+	{
+		width:35%
+	}
+	.Features_Border_Mid
+	{
+		width:35.9%
+	}
+	.Features
+	{
+		margin-left:15%
+	}
+	.Top_Bar_Image
+	{
+		margin-left: 52.9%;
+		width:3.5%;
+		margin-top:1.5%
+	}
+	.Content_Side_Normal
+	{
+		font-size:10px
+	}
+	.Modern_Consulting_Content1
+	{
+		font-size:62px
+	}
+	.Modern_Consulting_Content2
     {
-        font-size: 20px;
+        font-size: 12px;
     }
     .Modern_Consulting_Content3
     {
-        font-size: 14px;
+        font-size: 10px;
     }
+	.Modern_Consulting_Content4
+	{
+		font-size:62px
+	}
     .Modern_Consulting_Content5
     {
-        font-size: 20px;
+        font-size: 12px
     }
     .Modern_Consulting_Content6
     {
-        font-size: 14px;
+        font-size: 10px;
     }
+	.Modern_Consulting_Content7
+	{
+		font-size:62px
+	}
     .Modern_Consulting_Content8
     {
-        font-size: 20px;
+        font-size: 12px
     }
     .Modern_Consulting_Content9
     {
-        font-size: 14px;
+        font-size: 10px;
     }
     .mg_left
     {
         margin-left: 15%;
     }
+	.Future
+	{
+		margin-top:100px
+	}
     .Futere_Content1
     {
-        font-size: 20px;
+        font-size: 14px;
     }
-    .Futere_Content1
-    {
-        font-size: 10px;
-    }
+	.Futere_Content2
+	{
+		font-size:10px
+	}
+	.Futere_Button1
+	{
+		font-size:9px
+	}
+	.Futere_Button2
+	{
+		font-size:9px
+	}
     .Futre_Img
     {
         width: 40%;
@@ -1422,8 +1501,9 @@
     }
     .New_Tecnologies_Button
     {
-        margin-top: 10px;
+        margin-top: 20px;
         font-size: 10px;
+		width:100px
     }
     .New_Tecnologies_Content
     {
@@ -1432,6 +1512,7 @@
     .New_Tecnologies_Content1
     {
         font-size: 14px;
+		line-height:20px;
     }
     .New_Tecnologies_Content2
     {
@@ -1440,27 +1521,74 @@
     .Not_Sure_To_Where_Start_Container
     {
         margin-top: 60px;
+		height:350px
     }
     .Not_Sure_To_Where_Start_Content1
     {
-        font-size: 26px;
+        font-size: 18px;
     }
     .Not_Sure_To_Where_Start_Content2
     {
-        font-size: 14px;
+        font-size: 9px;
     }
+	.Option_Boder
+	{
+		height:250px
+	}
+	.fa-wordpress
+	{
+		font-size:52px
+	}
+	.Option_Content1
+	{
+		font-size:18px
+	}
+	.Option_Content2
+	{
+		font-size:10px
+	}
+	.Option_Content3
+	{
+		font-size:18px
+	}
+	.Option_Content4
+	{
+		font-size:10px
+	}
+	.Option_Content5
+	{
+		font-size:18px;
+		margin-top:5px
+	}
+	.Option_Content6
+	{
+		font-size:10px
+	}
+	.fa-stripe-s
+	{
+		font-size:50px
+	}
+	.Img_Adobe
+	{
+		width:52px;
+		height:52px;
+	}
     .Option_Button1
     {
-        width: 60px;
-        height: 60px;
+        width: 40px;
+        height: 40px;
     }
+	.fa-arrow-right
+	{
+		font-size:18px
+	}
     .Option_Button
     {
-        margin-top: 80px !important;
+        margin-top: 60px !important;
     }
     .Last_Project_Content1
     {
-        font-size: 26px;
+        font-size: 16px;
     }
     .Last_Project_Content
     {
@@ -1468,7 +1596,8 @@
     }
     .Last_Project_Content2
     {
-        font-size: 13px;
+        font-size: 9px;
+		line-height:18px
     }
     .Last_Project_Img1
     {
