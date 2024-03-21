@@ -765,11 +765,11 @@
     }
     .Content_Side_Normal
     {
-        font-size: 8px !important;
+        font-size: 7px !important;
     }
     .Features_Border_Side
     {
-        margin-top: -6.5% !important;
+        margin-top: -5.5% !important;
         position: relative;
         display: block;
         text-align: center;
@@ -796,7 +796,7 @@
     }
     .Modern_Consulting_Container1
     {
-        font-size: 12px !important;
+        font-size: 10px !important;
     }
     .mg_left
     {
@@ -819,7 +819,7 @@
     }
     .Modern_Consulting_Content3
     {
-        font-size: 7px !important;
+        font-size: 6.5px !important;
         font-family: 'inter';
         font-weight: 400;
         text-align: center;
@@ -841,7 +841,7 @@
     }
     .Modern_Consulting_Content6
     {
-        font-size: 7px !important;
+        font-size: 6.5px !important;
         font-family: 'inter';
         font-weight: 400;
         text-align: center;
@@ -863,7 +863,7 @@
     }
     .Modern_Consulting_Content9
     {
-        font-size: 7px !important;
+        font-size: 6.5px !important;
         font-family: 'inter';
         font-weight: 400;
         text-align: center;
@@ -877,13 +877,13 @@
     }
     .Futere_Content1
     {
-        font-size: 15px !important;
+        font-size: 12px !important;
         font-family: 'inter';
         font-weight: 800;        
     }
     .Futere_Content2
     {
-        font-size: 10px !important;
+        font-size: 8px !important;
         font-family: 'inter';
         font-weight: 400;   
     }
@@ -921,8 +921,8 @@
     }
     .Futre_Img
     {
-        width: 180px !important;
-        height: 250px !important;
+        width: 150px !important;
+        height: 230px !important;
     }
     .Logo_Img
     {
@@ -943,7 +943,7 @@
     }
     .New_Tecnologies_Content1
     {
-        font-size: 14px !important;
+        font-size: 12px !important;
         line-height: 14px !important;
         color: #0f66dc;
         font-weight: 600;
@@ -951,7 +951,7 @@
     }
     .New_Tecnologies_Content2
     {
-        font-size: 8.4px !important;
+        font-size: 7.4px !important;
         line-height:10.4px !important;
 		color: #2c2c2c;
         font-weight: 600;
@@ -995,7 +995,7 @@
     }
     .Not_Sure_To_Where_Start_Content2
     {
-        font-size: 9px !important;
+        font-size: 7.5px !important;
         color: #748494;
         font-weight: 400;
         font-family: 'inter';
@@ -1009,12 +1009,12 @@
     }
     .Option_Content1
     {
-        font-size: 12px !important;
+        font-size: 11px !important;
     }
     .Option_Content2
     {
 		margin-top:-20px;
-        font-size: 7px !important;
+        font-size: 6px !important;
     }
     .fa-wordpress
     {
@@ -1033,13 +1033,13 @@
     }
     .Option_Content3
     {
-        font-size: 12px;
+        font-size: 11px;
         line-height: 44px;
     }
     .Option_Content4
     {
        	margin-top:-20px;
-        font-size: 7px !important;
+        font-size: 6px !important;
     }
     .Option_Button1
     {
@@ -1061,20 +1061,20 @@
     }
     .Option_Content5
     {
-        font-size: 12px !important;
+        font-size: 11px !important;
     }
     .Option_Content6
     {
        	margin-top:-20px;
-        font-size: 7px !important;
+        font-size: 6px !important;
     }
     .Last_Project_Content1
     {
-        font-size: 18px !important;
+        font-size: 15px !important;
     }
     .Last_Project_Content2
     {
-        font-size: 8px !important;
+        font-size: 6.5px !important;
         line-height: 16px;
     }
     .Last_Project_Img
@@ -1139,11 +1139,11 @@
 	}
     .Consulting_Firm_Content1
     {
-        font-size: 18px !important;
+        font-size: 15px !important;
     }
     .Consulting_Firm_Content2
     {
-        font-size: 10px !important;
+        font-size: 8px !important;
         line-height: 16px !important;
     }
     .Consulting_Firm_Button1
@@ -1164,11 +1164,11 @@
 	}
     .Consulting_Firm_Border_Content1
     {
-        font-size: 12px !important;
+        font-size: 11px !important;
     }
     .Consulting_Firm_Border_Content2
     { 
-        font-size: 10px !important;; 
+        font-size: 8px !important;; 
     }
     .fa-database
     {
@@ -1176,11 +1176,11 @@
     }
     .Consulting_Firm_Border_Content3
     {
-        font-size: 12px !important;;
+        font-size: 11px !important;;
     }
     .Consulting_Firm_Border_Content4
     {
-        font-size: 10px !important;; 
+        font-size: 8px !important;; 
     }
     .Last_Project_Content
     {
@@ -1191,11 +1191,11 @@
     }
     .Stay_Up_Content1
     {
-        font-size: 14px !important;
+        font-size: 12px !important;
     }
     .Stay_Up_Content2
     {
-        font-size: 9px !important;
+        font-size: 7.5px !important;
     }
     .Stay_Up_Submit_Textbox
     {
@@ -1232,7 +1232,7 @@
     }
     .Copyrights
     {
-        margin-left: 25.1% !important;
+        margin-left: 20% !important;
         margin-top: 57px !important;
         margin-bottom: 55px !important;
         width: 35%;
