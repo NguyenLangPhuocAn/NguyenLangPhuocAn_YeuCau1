@@ -753,12 +753,12 @@
 	}
 	.Features_Border_Mid
 	{
-		margin-left:30%;
+		margin-left:20%;
         margin-top: -8.5% !important;
         position: relative;
         display: block;
         text-align: center;
-        width: 40.9% !important;
+        width: 60.9% !important;
         height: 89.5% !important;
         border-radius: 10px;
         border: 1px solid #0f66dc;
@@ -779,24 +779,24 @@
     }
     .fa-project-diagram
     {
-        font-size: 36px !important;
+        font-size: 50px !important;
     }
     .Content_Side
     {
-        font-size: 16px !important;
+        font-size: 20px !important;
     }
     .Content_Side_Normal
     {
-        font-size: 7px !important;
+        font-size: 12px !important;
     }
     .Features_Border_Side
     {
-		margin-left:30%;
+		margin-left:20%;
         margin-top: -8.5% !important;
         position: relative;
         display: block;
         text-align: center;
-        width: 40.9% !important;
+        width: 60.9% !important;
         height: 89.5% !important;
         border-radius: 10px;
         background-color: #ffffff;
@@ -804,11 +804,11 @@
     }
     .fa-microchip
     {
-        font-size: 36px !important;
+        font-size: 50px !important;
     }
     .fa-hands-helping
     {
-        font-size: 36px !important;
+        font-size: 50px !important;
     }
     .Features
     {
