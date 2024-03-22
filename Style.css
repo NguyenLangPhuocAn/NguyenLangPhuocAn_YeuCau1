@@ -4,6 +4,10 @@
     border: 0;
 	font-family: 'inter'
 }
+.mg_left
+{
+	margin-left:3.75%
+}
 .Img_Adobe	
 {
 	width:72px;
@@ -11,7 +15,7 @@
 }
 .Futre_Img
 {
-	width:34%;
+	width:35.5%;
 	height:340px
 }
 .Copyrights_Text
@@ -46,7 +50,7 @@
 }
 .Stay_Up_Submit_Textbox
 {
-    width: 75.5%;
+    width: 66.5%;
     height: 70px;
     border-radius: 35px;
     background-color: #f5f8fd;
@@ -220,7 +224,7 @@
 .Option_Content2
 {
     color: #8a8a8a;
-    font-size: 12px;
+    font-size: 16px;
     font-family:'inter';
 }
 .Option_Content3
@@ -234,7 +238,7 @@
 .Option_Content4
 {
     color: #8a8a8a;
-    font-size: 12px;
+    font-size: 16px;
     font-family:'inter';
 }
 .Option_Content5
@@ -248,7 +252,7 @@
 .Option_Content6
 {
     color: #8a8a8a;
-    font-size: 12px;
+    font-size: 16px;
     font-family:'inter';
 }
 .fa-wordpress
@@ -265,7 +269,7 @@
     font-family: 'inter';
     text-align: center;
     width: 60.6%;
-    margin-left: 23.1%
+    margin-left: 21.1%
 }
 .Not_Sure_To_Where_Start_Content2
 {
@@ -275,7 +279,7 @@
     font-family: 'inter';
     text-align: center;
     width: 39.75%;
-    margin-left: 32.1%;
+    margin-left: 31.1%;
 }
 .New_Tecnologies_Button
 {
@@ -352,7 +356,7 @@
 }
 .Modern_Consulting_Content3
 {
-    font-size: 16px;
+    font-size: 17px;
     font-family: 'inter';
     font-weight: 400;
     text-align: center;
@@ -517,10 +521,10 @@
 }
 .Modern_Consulting_Container2
 {
-    width: 73%;
+    width: 74%;
     margin-top: 3%;
     display:flex;   
-    margin-left: 13.4%;
+    margin-left: 11.3%;
     margin-right: 13.4%;
 }
 .Modern_Consulting_Content
@@ -549,7 +553,7 @@
     height: 15%;
     display:block;
     margin-top: 2.5%;
-    margin-left: 15%;
+    margin-left: 13.2%;
 }
 .Futere_Button
 {
@@ -611,6 +615,7 @@
     display: flex;
     width: 78%;
     height:100px;
+	margin-left:13.4%
 }
 .Option_Button
 {
@@ -621,7 +626,7 @@
 }
 .Option_Boder
 {
-    width: 22%;
+    width: 26%;
     height: 310px;
     border-radius: 10px;
     background-color: #ffffff;
@@ -674,11 +679,12 @@
 }
 .Consulting_Firm_Border
 {
-    width: 21.8%;
+    width: 19.8%;
     height: 270px;
     border-radius: 10px;
     background-color: #f0f8ff;
     margin-top: 120px;
+	margin-left: 2.6%
 }
 .Consulting_Firm_Border_Content
 {
@@ -728,19 +734,35 @@
 }
 .Footer_Logo
 {
-    margin-left: 25%;
+    margin-left: 15%;
     margin-top: 50px;
     margin-bottom: 56px;
     width: 13.3%;
 }
 .Copyrights
 {
-    margin-left: 25.1%;
+    margin-left: 15%;
     margin-top: 57px;
     margin-bottom: 55px;
     width: 35%;
 }
 @media screen and (max-width: 435px ){
+	.Container_Features
+	{
+		display:block;
+	}
+	.Features_Border_Mid
+	{
+		margin-left:30%;
+        margin-top: -8.5% !important;
+        position: relative;
+        display: block;
+        text-align: center;
+        width: 40.9% !important;
+        height: 89.5% !important;
+        border-radius: 10px;
+        border: 1px solid #0f66dc;
+	}
 	.Top_Bar_Content
     {
 		font-size: 12px !important;
@@ -769,12 +791,13 @@
     }
     .Features_Border_Side
     {
-        margin-top: -5.5% !important;
+		margin-left:30%;
+        margin-top: -8.5% !important;
         position: relative;
         display: block;
         text-align: center;
-        width: 30.9% !important;
-        height: 90% !important;
+        width: 40.9% !important;
+        height: 89.5% !important;
         border-radius: 10px;
         background-color: #ffffff;
         border: 1px solid #e4e4e4;
