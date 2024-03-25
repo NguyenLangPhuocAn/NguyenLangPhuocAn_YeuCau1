@@ -781,6 +781,10 @@
     width: 35%;
 }
 @media screen and (max-width: 435px ){
+	.Last_Project_Img
+	{
+		margin-left:10%
+	}
 	.Logo1
 	{
 		margin-left: 11%;
@@ -1041,7 +1045,7 @@
     }
     .New_Tecnologies_Content1
     {
-        font-size: 18px !important;
+        font-size: 14px !important;
         line-height: 20px !important;
         color: #0f66dc;
         font-weight: 600;
@@ -1075,7 +1079,7 @@
     }
     .Not_Sure_To_Where_Start_Content1
     {
-        font-size: 13px !important;
+        font-size: 11.5px !important;
         color: #2c2c2c;
         font-weight: 500;
         font-family: 'Inter';
@@ -1166,19 +1170,15 @@
     }
     .Last_Project_Content2
     {
-        font-size: 6.5px !important;
+        font-size: 7.5px !important;
         line-height: 16px;
-    }
-    .Last_Project_Img
-    {
-        height: 119px;
     }
     .Last_Project_Container
     {
-        margin-top: 69px !important;
+        margin-top: 30px !important;
         display: block;
         width: 100%;
-        height: 350px;
+        height: 300px;
         background-color: #f0f8ff;
     }
     .Not_Sure_To_Where_Start_Container
@@ -1202,24 +1202,26 @@
     }
     .Last_Project_Img1
     {
-        margin-left: 16px !important;
+		margin-left:10px;
         margin-top: 27px !important;
-        width: 23% !important;
-        height:115px !important;
+        width: 60% !important;
+        height:150px !important;
     }
     .Last_Project_Img2
     {
-        margin-left: 14px !important;
+		margin-left:10px;
         margin-top: 27px !important;
-        width: 23% !important;
-        height:115px !important;;
+        width: 60% !important;
+        height:150px !important;
+		display:none;
     }
     .Last_Project_Img3
     {
-        margin-left: 13px !important;
+		margin-left:10px;
         margin-top: 27px !important;
-        width: 23% !important;
-        height:115px !important;
+        width: 60% !important;
+        height:150px !important;
+		display:none;
     }
 	.Consulting_Firm_Content
 	{
@@ -1250,7 +1252,7 @@
 	{
 		margin-left: 0% !important;
 	}
-	.Myslide2
+	.dp_none
 	{
 		display:none;
 	}
@@ -1284,10 +1286,10 @@
     }
     .Last_Project_Content
     {
-        padding-top: 60px !important;
-        width: 40.62%;
+        padding-top: 30px !important;
+        width: 80.62%;
         text-align: center;
-        margin-left: 29.68%;   
+        margin-left: 10.68%;   
     }
     .Stay_Up_Content1
     {
@@ -1688,7 +1690,7 @@
     }
     .Last_Project_Content1
     {
-        font-size: 16px;
+        font-size: 15px;
     }
     .Last_Project_Content
     {

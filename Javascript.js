@@ -21,22 +21,25 @@ function Modern_Consulting() {
   x[slideIndex-1].style.display = "block"; 
   setTimeout(Modern_Consulting,4000); 
 }
-slideIndex = 1;
-function plusDivs(n) {
-  showDivs(slideIndex += n);
+var slideIndex1 = [1,1];
+var slideId = ["Myslide2","Myslide3"]
+function plusDivs(n, no) {
+  showDivs(slideIndex1[no] += n, no);
 }
-function showDivs(n) {
+
+function showDivs(n, no) {
   var i;
-  var x = document.getElementsByClassName("Myslide2");
-  if (n > x.length) {slideIndex = 1}
-  if (n < 1) {slideIndex = x.length}
+  var x = document.getElementsByClassName(slideId[no]);
+  if (n > x.length) {slideIndex1[no] = 1}
+  if (n < 1) {slideIndex1[no] = x.length}
   for (i = 0; i < x.length; i++) {
     x[i].style.display = "none";  
   }
-  x[slideIndex-1].style.display = "block";  
+  x[slideIndex1[no]-1].style.display = "block";  
 }
 if(window.innerWidth<450){
-showDivs(slideIndex);
+showDivs(1, 0);
+showDivs(1, 1);
 Feature();
 Modern_Consulting();
 Option_Boder();
