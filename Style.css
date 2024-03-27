@@ -781,6 +781,11 @@
     width: 35%;
 }
 @media screen and (max-width: 435px ){
+	.Stay_Up_Container
+	{
+		display:block !important;
+		height:120px !important;
+	}
 	.Last_Project_Img
 	{
 		margin-left:10%
@@ -1291,25 +1296,30 @@
         text-align: center;
         margin-left: 10.68%;   
     }
+	.Stay_Up_Content
+	{
+		height:30px;
+	}
     .Stay_Up_Content1
     {
         font-size: 12px !important;
     }
     .Stay_Up_Content2
     {
-        font-size: 7.5px !important;
+        font-size: 8.5px !important;
     }
     .Stay_Up_Submit_Textbox
     {
-        width: 90.5% !important;
+        width: 60.5% !important;
         height: 40px !important;
         border-radius: 35px;
         background-color: #f5f8fd;
         border: 1px solid #e5e5e5;    
+		margin-left:7%;
     }
     .Stay_Up_Submit
     {
-        margin-top: 80px !important;
+        margin-top: 0px !important;
     }
     .Stay_Up_Submit_Button
     {
@@ -1323,18 +1333,18 @@
     .Social_Media
     {
         font-size: 8.4px !important;
-        width: 100% ;
+        width: 25% ;
     }
     .Footer_Logo
     {
-        margin-left: 25% !important;
+        margin-left: 0% !important;
         margin-top: 50px !important;
         margin-bottom: 50px !important;
-        width: 13.3%;
+        width: 3.3%;
     }
     .Copyrights
     {
-        margin-left: 20% !important;
+        margin-left: 15% !important;
         margin-top: 57px !important;
         margin-bottom: 55px !important;
         width: 35%;
@@ -1346,7 +1356,7 @@
     }
     .Copyrights_Text
     {
-        font-size: 7px !important;  
+        font-size: 8px !important;  
     }
 }
 @media screen and (max-width: 375px){

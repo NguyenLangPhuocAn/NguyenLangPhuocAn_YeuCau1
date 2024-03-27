@@ -8,7 +8,7 @@ function Feature() {
   slideIndex++;
   if (slideIndex > x.length) {slideIndex = 1} 
   x[slideIndex-1].style.display = "block"; 
-  setTimeout(Feature,4000); 
+  setTimeout(Feature,3000); 
 }
 function Modern_Consulting() {
   var i;
@@ -19,7 +19,7 @@ function Modern_Consulting() {
   slideIndex++;
   if (slideIndex > x.length) {slideIndex = 1} 
   x[slideIndex-1].style.display = "block"; 
-  setTimeout(Modern_Consulting,4000); 
+  setTimeout(Modern_Consulting,3000); 
 }
 var slideIndex1 = [1,1];
 var slideId = ["Myslide2","Myslide3"]
@@ -37,10 +37,10 @@ function showDivs(n, no) {
   }
   x[slideIndex1[no]-1].style.display = "block";  
 }
-if(window.innerWidth<450){
-showDivs(1, 0);
-showDivs(1, 1);
+if(screen.width<460){
 Feature();
 Modern_Consulting();
 Option_Boder();
+showDivs(1, 0);
+showDivs(1, 1);
 }
